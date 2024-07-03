@@ -6,6 +6,7 @@ div{
     color: white;
     border: 5px solid gray;
     border-radius: 10px;
+    /* box-align: var(5px); */
     margin: 10px;
     padding: 20px;
     box-shadow: 5px  4px rgb(228, 228, 15);
